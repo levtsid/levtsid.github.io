@@ -7,7 +7,7 @@
 	}
 	.resgrid {
 		display: grid;
-	}
+	
 	section {
 		span: 4;
 	}
@@ -20,6 +20,7 @@
 	h3 {
 		span: 1;
 	}
+}
 	: root {
 		--columns: 4;
 		--gutter: 20px;
