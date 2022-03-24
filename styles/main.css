@@ -5,7 +5,21 @@
 		position: relative;
 		
 	}
-	
+	.resgrid {
+		display: grid;
+	}
+	.ressec {
+		span: 4;
+	}
+	.h1 {
+		span: 3;
+	}
+	.h2 {
+		span: 2;
+	}
+	.h3 {
+		span: 1;
+	}
 	: root {
 		--columns: 4;
 		--gutter: 20px;
