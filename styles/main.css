@@ -9,16 +9,16 @@
 		display: grid;
 		grid: auto / 1fr 1fr 1fr 1fr; 
 	section {
-		grid-area: 1 / span 4;
+		grid-area: auto / span 4;
 	}
 	h1 {
-		grid-area: 1 / span 3;
+		grid-area: auto / span 3;
 	}
 	h2 {
-		grid-area: 1 / span 2;
+		grid-area: auto / span 2;
 	}
 	h3 {
-		grid-area: 1 / span 1;
+		grid-area: auto / span 1;
 	}
 }
 	: root {
