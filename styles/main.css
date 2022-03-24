@@ -1,8 +1,17 @@
 	
 	body {
-		background-color: DBD1C1;
+		background-color: #DBD1C1;
+		text-rendering: optimizeLegibility;
+		position: relative;
+		
 	}
-
+	
+	: root {
+		--columns: 4;
+		--gutter: 20px;
+		--column-width: calc((100% / var(--columns)) - var(--gutter));
+	}
+	
 	a { color: black; }
 	a:hover { color: black; }
 	a:active { color: black; }
