@@ -35,7 +35,7 @@
 	}
 	
 	a { color: black; }
-	a:hover { color: black; }
+	a:hover { color: grey; }
 	a:active { color: black; }
 	a:visited { color: black; }
 	
