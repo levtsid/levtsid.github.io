@@ -8,6 +8,9 @@
 	.resgrid {
 		display: grid;
 		grid: 1fr 1fr 1fr 1fr / auto; 
+		background-color: #fff;
+    		color: #444;
+		grid-gap: 10px;
 
 	.subgrid {
 		grid-area: auto;
