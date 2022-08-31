@@ -7,7 +7,7 @@
 	}
 	.resgrid {
 		display: grid;
-		grid: auto / 1fr 1fr 1fr 1fr; 
+		grid: 1fr 1fr 1fr 1fr / auto; 
 	section {
 		grid-area: auto / span 4;
 	}
