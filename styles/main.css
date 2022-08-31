@@ -11,12 +11,12 @@
 		background-color: #fff;
     		color: #444;
 		grid-gap: 10px;
-
+}
 	.subgrid {
 		grid-area: auto;
 		display: grid;
 		grid: auto / 1fr 1fr 1fr 1fr;
-		
+}		
 	h1 {
 		grid-area: auto / span 3;
 	}
@@ -26,8 +26,8 @@
 	h3 {
 		grid-area: auto / span 1;
 	}
-}
-}
+
+
 	: root {
 		--columns: 4;
 		--gutter: 20px;
