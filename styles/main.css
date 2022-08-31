@@ -16,6 +16,7 @@
 		grid-area: auto;
 		display: grid;
 		grid: auto / 1fr 1fr 1fr 1fr;
+		grid-gap: 10px;
 }		
 	h1 {
 		grid-area: auto / span 3;
