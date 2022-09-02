@@ -22,7 +22,7 @@
 		grid-area: auto / span 3;
 	}
 	h2 {
-		grid-area: auto / span 2;
+		grid-area: auto / span 1;
 	}
 	h3 {
 		grid-area: auto / span 1;
