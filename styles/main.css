@@ -23,6 +23,7 @@
 	}
 	h2 {
 		grid-area: auto / span 1;
+		text-align: right;
 	}
 	h3 {
 		grid-area: auto / span 1;
