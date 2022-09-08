@@ -22,6 +22,7 @@
 }		
 	h1 {
 		grid-area: auto / span 3;
+		font-size: 10vw;
 	}
 	h2 {
 		grid-area: auto / span 1;
