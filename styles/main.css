@@ -15,7 +15,7 @@
 	.subgrid {
 		grid-area: auto;
 		background-color: #aaa;
-		color: #333;
+		color: #333fff;
 		display: grid;
 		grid: auto / 1fr 1fr 1fr 1fr;
 		grid-gap: 10px;
