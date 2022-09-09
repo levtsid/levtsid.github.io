@@ -28,9 +28,11 @@
 	h2 {
 		grid-area: auto / span 1;
 		text-align: right;
+		font-size: 2vw;
 	}
 	h3 {
 		grid-area: auto / span 1;
+		font-size: 2vw;
 	}
 
 
