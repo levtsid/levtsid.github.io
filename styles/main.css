@@ -38,8 +38,15 @@
 		grid-area: auto / span 4;
 		font-size: 2vw;
 	}
-
-
+	obox {
+		font-size: 2vw;
+		display: flex;
+	}
+	
+	ibox {
+		font-size: 2vw;
+	}
+	
 	: root {
 		--columns: 4;
 		--gutter: 20px;
