@@ -42,6 +42,7 @@
 		font-size: 2vw;
 		display: flex;
 		grid-area: auto / span 4;
+		justify-content: space-between;
 	}
 	
 	ibox {
